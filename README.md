@@ -5,9 +5,8 @@ The Swords of Iron App is a comprehensive platform designed to assist individual
 ## Getting Started
 
 
-![Alt text](Screenshot 2023-10-22 171457.png)
-
-Clone this repository to your local machine.
+Clone this repository to your local ma![Screenshot 2023-10-22 171457](https://github.com/DanPongo/-Swords-of-Iron-information-for-citizens/assets/106473315/1cf74cc4-b69c-421f-a9e7-1c1d461ca304)
+chine.
 
 ```bash
 git clone <repository-url>
