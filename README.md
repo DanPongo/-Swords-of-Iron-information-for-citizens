@@ -4,6 +4,9 @@ The Swords of Iron App is a comprehensive platform designed to assist individual
 
 ## Getting Started
 
+
+![Alt text](Screenshot 2023-10-22 171457.png)
+
 Clone this repository to your local machine.
 
 ```bash
