@@ -1,13 +1,15 @@
 # Swords of Iron App
+![Screenshot 2023-10-22 171457](https://github.com/DanPongo/-Swords-of-Iron-information-for-citizens/assets/106473315/1cf74cc4-b69c-421f-a9e7-1c1d461ca304)
+
+
+
 
 The Swords of Iron App is a comprehensive platform designed to assist individuals in accessing vital information and resources during times of war or conflict. This innovative app provides streamlined access to government reports, protection measures, social support services, and more.
 
 ## Getting Started
 
 
-Clone this repository to your local ma![Screenshot 2023-10-22 171457](https://github.com/DanPongo/-Swords-of-Iron-information-for-citizens/assets/106473315/1cf74cc4-b69c-421f-a9e7-1c1d461ca304)
-chine.
-
+Clone this repository to your local machine.
 ```bash
 git clone <repository-url>
 ```
